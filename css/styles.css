@@ -223,3 +223,7 @@ footer a:hover, footer a:active, footer a:focus {
 .navbar-default.affix .navbar-header .navbar-brand .fa {
   color: #222;
 }
+
+.navbar-default .nav>li>a {
+    font-size: 13px;
+}
