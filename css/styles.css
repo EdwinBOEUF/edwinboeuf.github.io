@@ -219,3 +219,7 @@ footer a:hover, footer a:active, footer a:focus {
 .navbar-default.affix .navbar-header .navbar-brand:hover {
   color: #02C39A;
 }
+
+.navbar-default.affix .navbar-header .navbar-brand .fa {
+  color: #222;
+}
