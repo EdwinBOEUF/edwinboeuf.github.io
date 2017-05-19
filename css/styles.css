@@ -41,9 +41,9 @@ i {
 }
 
 .btn-primary:hover {
-  background-color: #02C39A;
+  background-color: #222;
   color: white;
-  border: 2px solid #02C39A;
+  border: 2px solid #222;
 }
 
 .intro {
@@ -158,7 +158,7 @@ header {
 
 @media (max-width: 767px) {
   #name-logo {
-    color: #02C39A;
+    color: #222;
   }
   .intro h2 {
     font-size: 20px;
