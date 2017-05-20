@@ -233,5 +233,5 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .row {
-  min-height: 80%;
+  height: auto;
 }
