@@ -41,9 +41,9 @@ i {
 }
 
 .btn-primary:hover {
-  background-color: #222;
+  background-color: #02C39A;
   color: white;
-  border: 2px solid #222;
+  border: 2px solid #02C39A;
 }
 
 .intro {
@@ -226,4 +226,8 @@ footer a:hover, footer a:active, footer a:focus {
 
 .navbar-default .nav>li>a {
     font-size: 13px;
+}
+
+.intro-bg .fa:hover {
+  color: #222;
 }
