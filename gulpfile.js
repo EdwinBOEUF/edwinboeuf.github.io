@@ -98,4 +98,4 @@ gulp.task('dev', ['browserSync', 'less', 'minify-css', 'minify-js'], function() 
 "scripts": {
     "build": "gulp build",
     "build": "gulp build:components",
-}
+};
